@@ -1,13 +1,14 @@
 {
   "name": "gridsome-plugin-stylelint",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Stylelint plugin for Gridsome",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "main": "gridsome.client.js",
   "files": [
-    "gridsome.client.js"
+    "gridsome.client.js",
+    "gridsome.server.js"
   ],
   "keywords": [
     "gridsome",
