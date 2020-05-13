@@ -1,0 +1,33 @@
+{
+  "name": "gridsome-plugin-stylelint",
+  "version": "0.1.0",
+  "description": "Stylelint plugin for Gridsome",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "gridsome.client.js",
+  "files": [
+    "gridsome.client.js"
+  ],
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "analytics"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanhoofmaarten/gridsome-plugin-stylelint.git"
+  },
+  "author": "@mrtnvh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanhoofmaarten/gridsome-plugin-stylelint/issues"
+  },
+  "homepage": "https://github.com/vanhoofmaarten/gridsome-plugin-stylelint#readme",
+  "devDependencies": {
+    "stylelint-webpack-plugin": "^2.0.0"
+  }
+}
