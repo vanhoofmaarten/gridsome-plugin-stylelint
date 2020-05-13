@@ -1,6 +1,6 @@
 {
   "name": "gridsome-plugin-stylelint",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Stylelint plugin for Gridsome",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,7 +27,10 @@
     "url": "https://github.com/vanhoofmaarten/gridsome-plugin-stylelint/issues"
   },
   "homepage": "https://github.com/vanhoofmaarten/gridsome-plugin-stylelint#readme",
-  "devDependencies": {
+  "dependencies": {
     "stylelint-webpack-plugin": "^2.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.3.3"
   }
 }
