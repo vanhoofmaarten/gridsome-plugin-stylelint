@@ -43,7 +43,7 @@ module.exports = {
 
 ## Options
 
-`gridsome-plugin-stylelint` is a wrapper around [`stylelint-webpack-plugin`](https://github.com/webpack-contrib/stylelint-webpack-plugin#options). All of the options & their defaults are directly mapped on and from [`stylelint-webpack-plugin`](https://github.com/webpack-contrib/stylelint-webpack-plugin#options), with the exception op the following:
+`gridsome-plugin-stylelint` is a wrapper around [`stylelint-webpack-plugin`](https://github.com/webpack-contrib/stylelint-webpack-plugin#options). All of the options & their defaults are directly mapped on and from [`stylelint-webpack-plugin`](https://github.com/webpack-contrib/stylelint-webpack-plugin#options), with the exception of the following:
 
 ### `context`
 
