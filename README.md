@@ -16,17 +16,17 @@ yarn add --dev stylelint
 
 ## Setup
 
-1. Add `gridsome-plugin-stylellint` dependency to your project.
+1. Add `gridsome-plugin-stylelint` dependency to your project.
 
 ```bash
 # npm
-npm install --save-dev gridsome-plugin-stylellint
+npm install --save-dev gridsome-plugin-stylelint
 
 # yarn
-yarn add --dev gridsome-plugin-stylellint
+yarn add --dev gridsome-plugin-stylelint
 ```
 
-2. Add `gridsome-plugin-stylellint` to the `plugins` section of `gridsome.config.js`
+2. Add `gridsome-plugin-stylelint` to the `plugins` section of `gridsome.config.js`
 
 ```js
 module.exports = {
